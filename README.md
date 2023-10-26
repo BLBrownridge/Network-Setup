@@ -26,6 +26,7 @@
 <img src="https://i.imgur.com/fvXzhDc.png" height="80%" width="80%"/>
 
 5C. Enter a private IP address such as (192.168.0.1), Subnet Mask (255.255.255.0), Default Gateway (none), and DNS (127.0.0.1, the loopback address).
+
 <img src="https://i.imgur.com/YJT7sTU.png" height="80%" width="80%"/>
 
 <h3>With this, the foundation of our network is set up. Let's proceed to configure the domain.</h3>
